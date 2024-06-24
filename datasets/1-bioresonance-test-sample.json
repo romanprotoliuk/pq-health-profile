@@ -1,0 +1,593 @@
+{
+    "Bioresonance-Test-Report": {
+        "Food-Items": {
+            "Explanation": "Several everyday food items, ingredients and preservatives are included in this section of the report. Items listed are those to which your sample has indicated a sensitivity to",
+            "Details": [
+                {
+                    "Item": "Bread, white bread",
+                    "Sensitivity": 87,
+                    "Explanation": "Bread made with white wheat flour."
+                },
+                {
+                    "Item": "Cabbage - Green",
+                    "Sensitivity": 93,
+                    "Explanation": "Common vegetable. This type being green in colour"
+                },
+                {
+                    "Item": "Cabbage - Red",
+                    "Sensitivity": 87,
+                    "Explanation": "Variety of cabbage with red or purplish leaves."
+                },
+                {
+                    "Item": "Callaloo",
+                    "Sensitivity": 90,
+                    "Explanation": "Callaloo is a fast-growing tall leafy green from the amaranth family."
+                },
+                {
+                    "Item": "Casein",
+                    "Sensitivity": 94,
+                    "Explanation": "Biggest protein in cow's milk and cheese"
+                },
+                {
+                    "Item": "Cassava",
+                    "Sensitivity": 93,
+                    "Explanation": "Edible starchy tuberous root."
+                },
+                {
+                    "Item": "Coriander",
+                    "Sensitivity": 90,
+                    "Explanation": "An aromatic culinary herb."
+                },
+                {
+                    "Item": "Cream Cheese",
+                    "Sensitivity": 87,
+                    "Explanation": "A cheese made with milk and cream - soft in consistency."
+                },
+                {
+                    "Item": "Curvularia",
+                    "Sensitivity": 92,
+                    "Explanation": "Curvularia is a type of fungus found commonly in soil from tropical regions."
+                },
+                {
+                    "Item": "Date Palm",
+                    "Sensitivity": 100,
+                    "Explanation": "The tree from which the fruit is derived. Used in some cooking methods and herbal medicines."
+                },
+                {
+                    "Item": "Duck",
+                    "Sensitivity": 85,
+                    "Explanation": "A water bird, known for its short legs and webbed feet."
+                },
+                {
+                    "Item": "Annatto, Bixin, Norbixin",
+                    "Sensitivity": 100,
+                    "Explanation": "Food colour whose colour ranges from red to brown depending on the solvent used for extraction."
+                },
+                {
+                    "Item": "Raspberries",
+                    "Sensitivity": 98,
+                    "Explanation": "An edible soft fruit related to the blackberry, consisting of a cluster of reddish-pink drupelets."
+                },
+                {
+                    "Item": "Rhubarb",
+                    "Sensitivity": 97,
+                    "Explanation": "Plant with large leaves and pink, red stalks that are often used as a dessert."
+                },
+                {
+                    "Item": "Sake",
+                    "Sensitivity": 100,
+                    "Explanation": "Japanese rice wine."
+                },
+                {
+                    "Item": "Salak",
+                    "Sensitivity": 99,
+                    "Explanation": "Salak is a species of palm tree native to Java and Sumatra in Indonesia."
+                },
+                {
+                    "Item": "Shad - fish",
+                    "Sensitivity": 86,
+                    "Explanation": "Shad, a large member of the herring family, are bony fish."
+                },
+                {
+                    "Item": "Shitake Mushroom",
+                    "Sensitivity": 95,
+                    "Explanation": "A type of mushroom high in vitamin B & D"
+                },
+                {
+                    "Item": "Sunflower oil",
+                    "Sensitivity": 86,
+                    "Explanation": "Oil extracted by pressing the seeds of a sunflower"
+                },
+                {
+                    "Item": "Swordfish",
+                    "Sensitivity": 90,
+                    "Explanation": "Swordfish is a mild-tasting, white-fleshed fish with a meaty texture. It is sold exclusively in steaks."
+                },
+                {
+                    "Item": "Trout (Brown)",
+                    "Sensitivity": 89,
+                    "Explanation": "Freshwater fish, often eaten."
+                },
+                {
+                    "Item": "Tuna",
+                    "Sensitivity": 100,
+                    "Explanation": "A commonly eaten type of fish. a sub group of the mackerel family"
+                },
+                {
+                    "Item": "Turtle - meat",
+                    "Sensitivity": 91,
+                    "Explanation": "It has an incredible meaty, beefy flavour with an extremely unique texture."
+                },
+                {
+                    "Item": "Wheatgrass",
+                    "Sensitivity": 90,
+                    "Explanation": "Wheatgrass is the young grass if the wheat plant."
+                },
+                {
+                    "Item": "White pepper",
+                    "Sensitivity": 96,
+                    "Explanation": "Spice made from white peppercorns."
+                },
+                {
+                    "Item": "Aloe Vera",
+                    "Sensitivity": 88,
+                    "Explanation": "A succulent plant species known for its soothing properties."
+                },
+                {
+                    "Item": "Artichoke",
+                    "Sensitivity": 89,
+                    "Explanation": "A type of thistle cultivated as a food."
+                },
+                {
+                    "Item": "Avocado",
+                    "Sensitivity": 90,
+                    "Explanation": "A tree native to South Central Mexico, classified as a member of the flowering plant family Lauraceae."
+                },
+                {
+                    "Item": "Basil",
+                    "Sensitivity": 91,
+                    "Explanation": "A culinary herb of the family Lamiaceae (mints)."
+                },
+                {
+                    "Item": "Black Pepper",
+                    "Sensitivity": 92,
+                    "Explanation": "A flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn."
+                },
+                {
+                    "Item": "Blueberry",
+                    "Sensitivity": 93,
+                    "Explanation": "A perennial flowering plant with blue or purple berries."
+                },
+                {
+                    "Item": "Bran",
+                    "Sensitivity": 94,
+                    "Explanation": "The hard outer layers of cereal grain."
+                },
+                {
+                    "Item": "Broccoli",
+                    "Sensitivity": 95,
+                    "Explanation": "An edible green plant in the cabbage family."
+                },
+                {
+                    "Item": "Carrot",
+                    "Sensitivity": 96,
+                    "Explanation": "A root vegetable, usually orange in color."
+                },
+                {
+                    "Item": "Celery",
+                    "Sensitivity": 97,
+                    "Explanation": "A marshland plant in the family Apiaceae."
+                },
+                {
+                    "Item": "Cucumber",
+                    "Sensitivity": 98,
+                    "Explanation": "A widely cultivated plant in the gourd family."
+                },
+                {
+                    "Item": "Eggplant",
+                    "Sensitivity": 99,
+                    "Explanation": "A plant species in the nightshade family Solanaceae."
+                },
+                {
+                    "Item": "Garlic",
+                    "Sensitivity": 100,
+                    "Explanation": "A species in the onion genus, Allium."
+                },
+                {
+                    "Item": "Ginger",
+                    "Sensitivity": 85,
+                    "Explanation": "A flowering plant whose rhizome, ginger root or ginger, is widely used as a spice."
+                },
+                {
+                    "Item": "Lettuce",
+                    "Sensitivity": 86,
+                    "Explanation": "An annual plant of the daisy family, Asteraceae."
+                },
+                {
+                    "Item": "Lime",
+                    "Sensitivity": 87,
+                    "Explanation": "A citrus fruit, which is typically round, green in color, 3–6 centimeters in diameter, and contains acidic juice vesicles."
+                },
+                {
+                    "Item": "Mint",
+                    "Sensitivity": 88,
+                    "Explanation": "A group of around 15 to 20 species of flowering plants in the family Lamiaceae."
+                },
+                {
+                    "Item": "Mustard",
+                    "Sensitivity": 89,
+                    "Explanation": "A condiment made from the seeds of a mustard plant."
+                },
+                {
+                    "Item": "Parsley",
+                    "Sensitivity": 90,
+                    "Explanation": "A species of flowering plant in the family Apiaceae."
+                },
+                {
+                    "Item": "Pea",
+                    "Sensitivity": 91,
+                    "Explanation": "Most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum."
+                }
+            ]
+        },
+        "Non-Food-Items": {
+            "Explanation": "Non-food items tested include different animals and animal dander, fungus, plant life and other inedible items.",
+            "Details": [
+                {
+                    "Item": "American sycamore (Platanus occidentalis)",
+                    "Sensitivity": 95,
+                    "Explanation": "A sycamore can grow to massive proportions. It is sometimes grown for timber. Sycamore is able to endure a big city environment and was formerly extensively planted as a shade tree."
+                },
+                {
+                    "Item": "Ash (Fraxinus excelsior)",
+                    "Sensitivity": 100,
+                    "Explanation": "Known as the ash, or European ash or common ash to distinguish it from other types of ash"
+                },
+                {
+                    "Item": "Bee",
+                    "Sensitivity": 89,
+                    "Explanation": "Bees are flying insects closely related to wasps and ants, known for their role in pollination."
+                },
+                {
+                    "Item": "Broad-leaved dock",
+                    "Sensitivity": 87,
+                    "Explanation": "It is a perennial herbaceous flowering plant. It is widely distributed throughout the world. It is a plant of arable land, meadows, waste ground, roadsides, ditches, and shorelines."
+                },
+                {
+                    "Item": "Cattle - animal",
+                    "Sensitivity": 98,
+                    "Explanation": "Cows are the most common type of large domesticated ungulates. Cattle are commonly raised as livestock for meat (beef or veal, see beef cattle), for milk (see dairy cattle), and for hides, which are used to make leather. They are used as riding animals and draft animals (oxen or bullocks, which pull carts, plows and other implements). Another product of cattle is dung, which can be used to create manure or fuel. In some regions, such as parts of India, cattle have significant religious meaning. Cattle, mostly small breeds such as the Miniature Zebu, are also kept as pets."
+                },
+                {
+                    "Item": "Cockatoo",
+                    "Sensitivity": 93,
+                    "Explanation": "Cockatoos are popular birds in aviculture, but their needs are difficult to meet. The cockatiel is the easiest cockatoo species to maintain and is by far the most frequently kept in captivity. They require daylight to find their food. They are not early risers, instead waiting until the sun has warmed their roosting sites before feeding. All species are generally highly social and roost, forage and travel in colourful and noisy flocks."
+                },
+                {
+                    "Item": "Colonial bent grass (Agrostis tenuis)",
+                    "Sensitivity": 100,
+                    "Explanation": "Grass that grows in moist lands and grasslands."
+                },
+                {
+                    "Item": "Diethanolamine",
+                    "Sensitivity": 97,
+                    "Explanation": "Diethanolamine is a white solid at room temperature, but its tendencies to absorb water and to supercool meaning that it is often encountered as a colorless, viscous liquid."
+                },
+                {
+                    "Item": "Dimethylfumarate - chemical",
+                    "Sensitivity": 96,
+                    "Explanation": "Dimethyl fumarate is an anti-inflammatory medication. It is used to treat relapsing-remitting forms (course of disease where symptoms flare up from time to time) of multiple sclerosis (MS; a condition in which the nerves do not function properly and people may experience weakness, numbness, loss of muscle coordination, and problems with vision, speech). It is also being investigated for the treatment of psoriasis."
+                },
+                {
+                    "Item": "Earwigs - insect",
+                    "Sensitivity": 87,
+                    "Explanation": "Earwigs are one of the smaller insect orders. Earwigs have characteristic cerci, a pair of forceps-like pincers on their abdomen, and membranous wings folded underneath short, rarely used forewings, hence the scientific order name, 'skin wings'."
+                },
+                {
+                    "Item": "Epicoccum purpurascens",
+                    "Sensitivity": 98,
+                    "Explanation": "Species of fungus found on cereals and grains."
+                },
+                {
+                    "Item": "Fluorine",
+                    "Sensitivity": 99,
+                    "Explanation": "Fluorine is used in many fluorochemicals, including solvents and high-temperature plastics, such as Teflon."
+                },
+                {
+                    "Item": "Frog - animal",
+                    "Sensitivity": 96,
+                    "Explanation": "It is any member of a diverse and largely carnivorous group of short-bodied, tailless cold-blooded vertebrate animal. Frogs seem rather defenceless because of their small size, slow movement, thin moist slimy skin, and lack of defensive structures, such as spines, claws or teeth. Many use camouflage to avoid detection."
+                },
+                {
+                    "Item": "Iguana - animal",
+                    "Sensitivity": 89,
+                    "Explanation": "It is a genus of herbivorous lizards that are native to tropical areas. Iguanas have keen vision and can see shapes, shadows, colors, and movement at long distances."
+                },
+                {
+                    "Item": "Isobutylparaben",
+                    "Sensitivity": 90,
+                    "Explanation": "Isobutylparaben is in the parabens family of preservatives used by the cosmetic and pharmaceutical industries to extend shelf life."
+                },
+                {
+                    "Item": "Laburnum (Laburnum anagyroides)",
+                    "Sensitivity": 85,
+                    "Explanation": "A tree with yellow hanging flowers."
+                },
+                {
+                    "Item": "Linden Tree",
+                    "Sensitivity": 92,
+                    "Explanation": "Also known as the 'lime tree'"
+                },
+                {
+                    "Item": "Mangrove",
+                    "Sensitivity": 95,
+                    "Explanation": "Tropical shrub or tree"
+                },
+                {
+                    "Item": "Mice - animal",
+                    "Sensitivity": 92,
+                    "Explanation": "A small rodent, characterised by small pointy nose and small rounded ears."
+                },
+                {
+                    "Item": "New Belgian Aster",
+                    "Sensitivity": 86,
+                    "Explanation": "A species of daisy"
+                },
+                {
+                    "Item": "Nylon",
+                    "Sensitivity": 87,
+                    "Explanation": "A tough, lightweight, elastic synthetic polymer with a protein-like chemical structure"
+                },
+                {
+                    "Item": "Paeclomyces - Fungus",
+                    "Sensitivity": 100,
+                    "Explanation": "Paecilomyces is a cosmopolitan filamentous fungus which inhabits the soil, decaying plants, and food products. However, as with most molds, you can prevent infections with proper cleaning and maintenance of your indoor environment."
+                },
+                {
+                    "Item": "Pediculus humanus corporis (body or clothes louse)",
+                    "Sensitivity": 90,
+                    "Explanation": "This does not mean you have the Parasite known as Body lice, rather that you would be more susceptible to the symptoms."
+                },
+                {
+                    "Item": "Phoma - Fungus",
+                    "Sensitivity": 87,
+                    "Explanation": "Phoma is a genus of common coelomycetous soil fungi. It contains many plant pathogenic species. It affects sweet potatoes and beets in particular."
+                },
+                {
+                    "Item": "Pigs - animals",
+                    "Sensitivity": 100,
+                    "Explanation": "The domestic pig is one of the most numerous large mammals on the planet. Domestic pigs are raised, among other livestock; material that are garnered include their meat (known as pork), leather, certain bristles and bones that are made into brushes. Because of their foraging abilities and excellent sense of smell, Pigs are biologically similar to humans and are thus frequently used for human medical research."
+                },
+                {
+                    "Item": "Pine, Scottish (Pinus sylvestris)",
+                    "Sensitivity": 96,
+                    "Explanation": "Species of pine tree. also known as Scot's pine"
+                },
+                {
+                    "Item": "Pinworm / Threadworm - parasite",
+                    "Sensitivity": 100,
+                    "Explanation": "Are tiny worms in your poo. They look like pieces of white thread. The worms usually come out at night while your child is sleeping. They’re common in children and spread easily. You can treat them without seeing your GP. You can buy medicine for threadworms from pharmacies. This is usually a chewable tablet or liquid you swallow."
+                },
+                {
+                    "Item": "Polyester",
+                    "Sensitivity": 88,
+                    "Explanation": "Polyester is a category of polymers that contains the ester functional group in every repeat unit of their main chain. Polyester is a man-made fibre. Polyester is very durable: resistant to most chemicals, stretching and shrinking, wrinkle resistant, mildew and abrasion-resistant. Polyester is hydrophobic in nature and quick drying. Industrial polyester fibers, yarns, and ropes are used in tire reinforcements, fabrics for conveyor belts, safety belts, coated fabrics and plastic reinforcements with high-energy absorption. Polyester fiber is used as cushioning and insulating material in pillows, comforters and upholstery padding."
+                },
+                {
+                    "Item": "Propylaraben",
+                    "Sensitivity": 100,
+                    "Explanation": "Propylparaben is an antifungal substance found in many plants and some insects, although it is manufactured synthetically for use in cosmetics, pharmaceuticals, and foods."
+                },
+                {
+                    "Item": "Ragweed (Ambrosia elatior)",
+                    "Sensitivity": 90,
+                    "Explanation": "A plant. A major cause of hay-fever."
+                },
+                {
+                    "Item": "Shrubs",
+                    "Sensitivity": 90,
+                    "Explanation": "A type of plant."
+                },
+                {
+                    "Item": "Snake - animal",
+                    "Sensitivity": 96,
+                    "Explanation": "Snakes are elongated, legless, carnivorous reptiles. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws. Most species are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense."
+                },
+                {
+                    "Item": "Spirometra erinaceieuropaei - parasite",
+                    "Sensitivity": 91,
+                    "Explanation": "Is a tapeworm that infects domestical animals and humans. In humans, infection is called sparganosis and involves larvae in the small intestines, known as spargana. The long larvae may be directly ingested by humans or may enter intermediate hosts which include frogs, birds, snakes, rats, and mice. Although humans can get infected with this parasite, they cannot complete the infected stage or grow. People cannot get infected by ingesting eggs, which are shed into the water by the shedding. If the meat of an intermediate host, such as chicken, is undercooked and it happens to be contaminated with the spargana larvae, the person can ingest it. A way to determine if an animal is infected with a type of tapeworm is to see white segments or faeces in the faeces."
+                },
+                {
+                    "Item": "Stachybotrys",
+                    "Sensitivity": 98,
+                    "Explanation": "Stachybotrys is a genus of molds, hyphomycetes or asexually reproducing, filamentous fungi, now placed in the family Stachybotryaceae."
+                },
+                {
+                    "Item": "Stinging nettle (Urtica dioica)",
+                    "Sensitivity": 97,
+                    "Explanation": "A plant that if touched stings the skin."
+                },
+                {
+                    "Item": "Stink Bugs (Halyomorpha halys)",
+                    "Sensitivity": 95,
+                    "Explanation": "Stink bugs are approximately 1.7 cm (0.67 in) long and about as wide, forming the heraldic shield shape. Like all stink bugs, the glands produce defensive chemicals (the 'stink'). The smell has been characterized as a 'pungent odour that smells like coriander.' Simply handling the bug, injuring it, or attempting to move it can trigger it to release the odour."
+                },
+                {
+                    "Item": "Suede",
+                    "Sensitivity": 87,
+                    "Explanation": "Suede is a type of leather with a fuzzy, napped finish, commonly used for jackets, shoes, fabrics, purses, furniture, and other items."
+                },
+                {
+                    "Item": "Sugar Maple (Acer saccharum)",
+                    "Sensitivity": 93,
+                    "Explanation": "Sugar maple is best known for its bright fall foliage and for being the primary source of maple syrup. Maple syrup is tested separately."
+                },
+                {
+                    "Item": "Tick - insect",
+                    "Sensitivity": 93,
+                    "Explanation": "Ticks are external parasites, living by feeding on the blood of mammals, birds, and sometimes reptiles and amphibians. Ticks are widely distributed around the world, especially in warm, humid climates."
+                },
+                {
+                    "Item": "Toluene",
+                    "Sensitivity": 89,
+                    "Explanation": "Toluene is a clear, colourless liquid which becomes a vapor when exposed to air at room temperature."
+                },
+                {
+                    "Item": "Trichinella spiralis",
+                    "Sensitivity": 97,
+                    "Explanation": "Species of Pork parasite. This does not mean you have the parasite, rather that you may show more adverse reactions."
+                },
+                {
+                    "Item": "Velvet - fabric",
+                    "Sensitivity": 96,
+                    "Explanation": "A woven fabric known for its distinctive soft feel."
+                },
+                {
+                    "Item": "Weasel - animal",
+                    "Sensitivity": 96,
+                    "Explanation": "It is a mammal. They are small, active predators, with long and slender bodies and short legs. From time to time been considered vermin because some species took poultry from farms or rabbits from commercial warrens."
+                },
+                {
+                    "Item": "Wheat (Triticum aestivum)",
+                    "Sensitivity": 88,
+                    "Explanation": "A cereal grain, grown in fields. This intolerance refers to the pollen and spores give off from the plant. The grain can still be eaten."
+                },
+                {
+                    "Item": "Wintergreen",
+                    "Sensitivity": 95,
+                    "Explanation": "It is a small, low-growing shrub. The leaves are evergreen."
+                },
+                {
+                    "Item": "Wucheria bancrofti",
+                    "Sensitivity": 90,
+                    "Explanation": "Type of parasitic worm. This does not mean you have the parasite, rather that you may be more susceptible to the symptoms"
+                }
+            ]
+        },
+        "Nutritional-Imbalances": {
+            "Explanation": "All essential vitamins and minerals are included in this section. If any imbalances are suspected, your results will suggest a few sources for each nutrient.",
+            "Details": [
+                {
+                    "Nutrient": "Bio-flavonoids",
+                    "Imbalance": 94,
+                    "Explanation": "Known to have anti-oxidant effects, found in many fruits and vegetables"
+                },
+                {
+                    "Nutrient": "Bromelain",
+                    "Imbalance": 85,
+                    "Explanation": "Enzyme found in pineapples Signs of deficiency - inflamed joints, sinusitis"
+                },
+                {
+                    "Nutrient": "Chromium",
+                    "Imbalance": 93,
+                    "Explanation": "Sources - Bread, Brown rice, Meat, Broccoli, Mushrooms, Green beans Signs of deficiency - Anxiety, low energy levels, chronic fatigue, muscle weakness, mood swings. Body use - It is an essential part of metabolic processes that regulate blood sugar and helps insulin transport glucose into cells, where it can be used for energy"
+                },
+                {
+                    "Nutrient": "Ellagic acid",
+                    "Imbalance": 93,
+                    "Explanation": "Found in many fruits and some nuts. Some sources are apple, blackberries, grapes, pecans and walnuts."
+                },
+                {
+                    "Nutrient": "Flavonoids",
+                    "Imbalance": 85,
+                    "Explanation": "Anti-oxidants known for inflammatory support."
+                },
+                {
+                    "Nutrient": "Manganese",
+                    "Imbalance": 97,
+                    "Explanation": "Sources - Almonds, apricots, rocket, oats, olives, oranges, banana, avocado, asparagus, beetroot. Signs of deficiency - Fainting, Hearing loss, Weak tendons. It is important in the formation of bones, connective tissues, blood-clotting factors and sex hormones, and also is involved in fat and carbohydrate metabolism, calcium absorption and blood sugar regulation."
+                },
+                {
+                    "Nutrient": "Molybdenum",
+                    "Imbalance": 93,
+                    "Explanation": "Sources - Lentils, dried peas, kidney beans, soy beans, pinto beans, black beans, oats, tomato, romaine lettuce, cucumber, celery, barley, eggs, carrot, bell peppers. Signs of deficiency - Headaches, Night blindness. Protects cells and creates energy to help vital organs get rid of waste products"
+                },
+                {
+                    "Nutrient": "Nucleic acid",
+                    "Imbalance": 96,
+                    "Explanation": "Found in fish, beans, nuts, spinach, beef, mushrooms and eggs; brewer's yeast. Nucleic acids are the compounds that make up nucleotide bases, the molecules that bind together to form DNA."
+                },
+                {
+                    "Nutrient": "Tartaric acid",
+                    "Imbalance": 93,
+                    "Explanation": "A white crystalline organic acid that occurs naturally in many plants, most notably in grapes. Acts as an antioxidant and an anti-inflammatory"
+                }
+            ]
+        },
+        "Metal-Sensitivities": {
+            "Explanation": "Any metals which your sample indicates a sensitivity towards will be listed here, along with common sources of these metals.",
+            "Details": [
+                {
+                    "Metal": "Beryllium (Be)",
+                    "Sensitivity": 96,
+                    "Explanation": "An alloy used for springs, electrical contacts, spot-welding electrodes"
+                },
+                {
+                    "Metal": "Borate",
+                    "Sensitivity": 93,
+                    "Explanation": "A compound often times found as an element used in thin film and in its mineral state used for treating wood for preservation."
+                },
+                {
+                    "Metal": "Cobalt (Co)",
+                    "Sensitivity": 90,
+                    "Explanation": "Cobalt is used to make high-speed and high temperature cutting tools and dyes - it is an alloy"
+                },
+                {
+                    "Metal": "Copper (Cu)",
+                    "Sensitivity": 89,
+                    "Explanation": "Because it is such a good conductor of electricity, copper is mostly used in electrical generators and motors."
+                },
+                {
+                    "Metal": "Gold (Au)",
+                    "Sensitivity": 89,
+                    "Explanation": "In its purest form, it is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal. Commonly found in jewellery"
+                },
+                {
+                    "Metal": "Silver (Ag)",
+                    "Sensitivity": 97,
+                    "Explanation": "Used for jewellery and traditional silverware"
+                },
+                {
+                    "Metal": "Tantalum",
+                    "Sensitivity": 89,
+                    "Explanation": "Tantalum is a rare, hard, blue-grey, lustrous transition metal that is highly corrosion-resistant."
+                },
+                {
+                    "Metal": "Tungsten (W)",
+                    "Sensitivity": 97,
+                    "Explanation": "Used to make bullets and turbine blades"
+                }
+            ]
+        },
+        "Gut-Biome": {
+            "Explanation": "Your gut needs a balance of good bacteria to function correctly. This section indicates suspected imbalances of certain strains of good bacteria.",
+            "Details": []
+        },
+        "Hormonal-Imbalances": {
+            "Explanation": "Checking for various hormonal imbalances such as estrogen, testosterone, cortisol, serotonin and prolactin.",
+            "Details": [
+                {
+                    "Hormone": "Luteinizing Hormone",
+                    "Imbalance": 95,
+                    "Explanation": "This is produced by the pituitary gland. It regulates the functions of both the ovaries and the testes. Lack or insufficiency of it can cause infertility or sub-fertility both in men and women"
+                },
+                {
+                    "Hormone": "Oestradiol",
+                    "Imbalance": 87,
+                    "Explanation": "This is a steroid hormone made from cholesterol and is the strongest of the three naturally produced oestrogens. It is involved in the regulation of the oestrous and menstrual female reproductive cycles"
+                }
+            ]
+        },
+        "Digestive Health & Metabolism Analysis": {
+            "Explanation": "This section analyses various enzymes which aid digestion and absorption of nutrients.",
+            "Details": [
+                {
+                    "Enzyme": "Pepsin",
+                    "Imbalance": 95,
+                    "Explanation": "Pepsin is the enzyme responsible for the digestion of protein. More specifically, pepsin is a protease originating from pepsinogen secreted into gastric juice from chief cells. An imbalance can cause acid reflux."
+                }
+            ]
+        }
+    }
+}
